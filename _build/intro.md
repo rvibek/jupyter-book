@@ -10,6 +10,8 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 ---
 # Books with Jupyter and Jekyll
 
+## Changing bits and pieces
+
 <img src="https://circleci.com/gh/jupyter/jupyter-book.svg?style=svg" class="left">
 
 Jupyter Books lets you build an online book using a collection of Jupyter Notebooks
