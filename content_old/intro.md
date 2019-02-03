@@ -1,13 +1,3 @@
----
-title: 'Home'
-prev_page:
-  url: 
-  title: ''
-next_page:
-  url: 
-  title: ''
-comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
----
 # Books with Jupyter and Jekyll
 
 <img src="https://circleci.com/gh/jupyter/jupyter-book.svg?style=svg" class="left">

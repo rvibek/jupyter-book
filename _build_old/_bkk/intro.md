@@ -4,8 +4,8 @@ prev_page:
   url: 
   title: ''
 next_page:
-  url: 
-  title: ''
+  url: /guide/01_overview
+  title: 'Getting started'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 # Books with Jupyter and Jekyll
